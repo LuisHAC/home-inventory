@@ -1,10 +1,12 @@
 # HomeInventory
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
+This is a project for personal inventory and weekly planning. The goal of the recipes/kitchen tracking is to plan out meals for the week and automatically put together a cart based on what's missing and what needs to be bought.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5. 
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `node .\server.js` on the api folder to initialize the express server.
 
 ## Code scaffolding
 
