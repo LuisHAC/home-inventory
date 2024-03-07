@@ -1,0 +1,19 @@
+{
+    "details": [
+        { "cook-time": {"hours": 0, "minutes": 0}}
+    ],
+    "ingrediesnts": [
+        { "name": "Ingredient 1", "quantity": 1, "unit": "tsp"},
+        { "name": "Ingredient 2", "quantity": 0.5, "unit": "tbsp"},
+        { "name": "", "quantity": "", "unit": ""}
+    ],
+    "source": "https://www.joshuaweissman.com/post/chicken-tikka-masala",
+    "steps": [
+        "step 1",
+        "step 2",
+        "step 3"
+    ],
+    "tags": ["tag 1", "tag 2", "tag 3"],
+    "title": "Template recipe"
+
+}

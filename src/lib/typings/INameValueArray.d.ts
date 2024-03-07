@@ -1,0 +1,1 @@
+interface INameValueArray extends Array<INameValuePair> { }

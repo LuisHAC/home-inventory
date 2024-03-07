@@ -1,0 +1,60 @@
+{
+    "recipes": [{
+        "details": [
+            { "cook-time": {"hours": 1, "minutes": 0}}
+        ],
+        "ingrediesnts": [
+            { "name": "Rice", "quantity": 1, "unit": "cup"},
+            { "name": "Gochuyang", "quantity": 2, "unit": "tbsp"},
+            { "name": "Honey", "quantity":1, "unit": "tbsp"}, 
+            { "name": "Soy Sauce", "quantity": 4, "unit": "tbsp"},
+            { "name": "Rice Vinegar", "quantity": 1, "unit": "tbsp"}, 
+            { "name": "Sesame Oil", "quantity": 1, "unit": "tbsp"}, 
+            { "name": "Ginger", "quantity": 1, "unit": "tbsp"},
+            { "name": "Garlic", "quantity": 4, "unit": "cloves"},
+            { "name": "Crushed Pepper", "quantity": 0.5, "unit": "tbsp"},
+            { "name": "Flank Steak", "quantity": 2, "unit": "pounds" }
+
+        ],
+        "source": "https://www.joshuaweissman.com/post/chicken-tikka-masala",
+        "steps": [
+            "In a medium bowl, place in the Gochuyang, Honey, Soy Sauce, Rice Vinegar, Sesame Oil, Ginger, Garlic and Crushed Pepper, stir until mixed.",
+            "On a cutting board, pinerce the steak with a fork and cut into small strips (About 3/4 of an inch long). Let beef marinate.",
+            "Wash one cup of rice and add to rice cooker with a 2:1 ratio (2 parts water for 1 part rice).",
+            "After letting the beef marinate for at least 40 minutes, cook in a medium pan for 3 minutes on each side."
+        ],
+        "tags": ["Beef", "Rice", "Under one hour"],
+        "title": "Beef Bulgogi"
+    },
+    {
+        "details": [
+            { "cook-time": {"hours": 1, "minutes": 0}},
+            { "servings": 4 }
+        ],
+        "ingrediesnts": [
+            { "name": "Paprika", "quantity": 1, "unit": "tsp"},
+            { "name": "Turmeric", "quantity": 0.5, "unit": "tbsp"},
+            { "name": "Garlic", "quantity": 0.5, "unit": "tbsp"},
+            { "name": "Ground Ginger", "quantity": 0.5, "unit": "tbsp"},
+            { "name": "Garam Masala", "quantity": 1, "unit": "tbsp"},
+            { "name": "Salt", "quantity": 1, "unit": "tsp"},
+            { "name": "Greek Yogurt", "quantity": 1, "unit": "cup"},
+            { "name": "Chicken Thighs", "quantity": 1, "unit": "pack", "notes": "Boneless & Skinless"},
+            { "name": "Garlic Achaar", "quantity": 2, "unit": "tbsp", "notes": "Optional"},
+            { "name": "Jasmine Rice", "quantity": 1.5, "unit": "cup", "notes": ""}
+    
+        ],
+        "source": "https://www.joshuaweissman.com/post/chicken-tikka-masala",
+        "steps": [
+            "In a bowl mix together, whole milk yogurt, all the spices, and kosher salt (optional: Add in 1 tbsp of garlic achaar). Whisk together.",
+            "In a cutting board, pinch chicken with a fork and cut down to bite sized pieces.",
+            "Add in the chicken and toss to thoroughly coat. Cover with plastic wrap and marinate for 20 minutes or overnight in the fridge.",
+            "Wash and rinse rice twice times through then cook via pressure cooker or rice cooker. ",
+            "In a medium saucepan over medium-high heat, add oil to coat the bottom. Sear chicken on both sides 3-4 minutes per side. Place to the side.",
+            "Add in the tikka masala sauce into the sauce pan. (Optional: Add 1 tbsp of garlic achaar)",
+            "Let it simmer for 10-15 minutes or until chicken is completely cooked through." 
+        ],
+        "tags": ["chicken", "rice", "Under one hour"],
+        "title": "Chicken Tikka Masala"
+    }
+]}

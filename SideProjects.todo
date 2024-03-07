@@ -1,0 +1,12 @@
+DB:
+    ☐ Establish ExpressJS server
+    ☐ Link server with DB
+    ☐ Create business logic for getters.
+
+Home Inventory:
+    ☐ Finish display card for recipe summary view.
+    ☐ Create JSON handlers.
+    ☐ Expanded recipe display.
+    ☐ Ingredient list checklist.
+    ☐ Export/Download ingredient listo to list document.
+    ☐ Kitchen inventory: Update inventory on recipe use.
